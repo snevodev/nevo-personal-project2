@@ -1,4 +1,4 @@
-/* Global Styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -138,7 +138,7 @@ img {
 .cta-buttons {
     display: flex;
     flex-direction: column;
-    align-items: center; /* centers everything */
+    align-items: center; 
     gap: 12px;
 }
 
@@ -401,7 +401,7 @@ footer p {
     .nav-links.active {
         display: flex;
     }
-    
+
 
     .about-grid,
     .projects-grid,
